@@ -1,0 +1,12 @@
+/* Note: Navigatiohn customize styling */
+
+.linkEl {
+    color: white;
+    text-decoration: none;
+    padding-top: 3px;
+    padding-left: 15px;
+}
+
+.linkEl:hover {
+    color: black;
+}
